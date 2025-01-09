@@ -1,9 +1,0 @@
-com\group4\swp\project\entity\Account$AccountBuilder.class
-com\group4\swp\project\resources\JakartaEE10Resource.class
-com\group4\swp\project\JakartaRestConfiguration.class
-com\group4\swp\project\entity\Account.class
-com\group4\swp\project\entity\Brand.class
-com\group4\swp\project\entity\Brand$BrandBuilder.class
-com\group4\swp\project\entity\Product.class
-com\group4\swp\project\util\HibernateUtil.class
-com\group4\swp\project\entity\Product$ProductBuilder.class
