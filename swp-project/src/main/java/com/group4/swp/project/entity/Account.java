@@ -17,6 +17,11 @@ import lombok.NoArgsConstructor;
 public class Account {
     @Id
     private String username;
+    
     private String password;
+    
     private Boolean isActice;
+    
+    private String email;
+    
 }
